@@ -1,0 +1,15 @@
+{
+	"name" : "documentLibrary",
+	"description" : "",
+	"nodes" :[
+		{
+			"id" : "1",
+			"name" : "Plantillas",
+			"description" : "Aqui se pueden editar las plantillas de carpetas y documentos",
+			"search" : {
+				"language" : "fts-alfresco",
+				"query" : "TYPE:'cm:folder' AND PATH:'app:company_home/app:dictionary/app:node_templates/cm:Minjus_x0020_DGJLR/*' OR PATH:'app:company_home/app:dictionary/app:space_templates/cm:Minjus_x0020_DGJLR/*'"
+			}
+		}
+	]
+}

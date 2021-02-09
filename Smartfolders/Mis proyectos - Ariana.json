@@ -1,0 +1,13 @@
+{
+	"name" : "Virtual Folders Example",
+	"nodes" : [
+				{
+					"id" : "11",
+					"name" : "06 Mis proyectos",
+					"search" : {
+						"language" : "fts-alfresco",
+						"query" : "TYPE:'cm:folder' AND PATH:'/app:company_home/st:sites/cm:area-de-pmo/cm:documentLibrary//*'  AND READER:'abeecher'"
+					}
+				}
+			]
+}

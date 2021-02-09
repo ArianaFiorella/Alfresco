@@ -1,0 +1,51 @@
+{
+	"name" : "Virtual Folders Example",
+	"nodes" : [
+				{
+					"id" : "11",
+					"name" : "Búsquedas de Resoluciones supremas",
+					"nodes" : [
+						{
+							"id" : "111",
+							"name" : "Resoluciones supremas publicadas en el 2019",
+							"search" : {
+							"language" : "fts-alfresco",
+							"query" : "+TYPE:'rdrs:resolucion' AND rdrs:fechaPublicacion:[2019-01-01 TO 2019-12-31] AND PATH:'/app:company_home/st:sites/cm:minjus-dgjlr/cm:documentLibrary//*'"
+							}
+						},
+						{
+							"id" : "112",
+							"name" : "Resoluciones supremas publicadas en el 2020",
+							"search" : {
+							"language" : "fts-alfresco",
+							"query" : "+TYPE:'rdrs:resolucion' AND rdrs:fechaPublicacion:[2020-01-01 TO 2020-12-31] AND PATH:'/app:company_home/st:sites/cm:minjus-dgjlr/cm:documentLibrary//*'"
+							}
+						}
+
+					]
+				},
+				{
+					"id" : "12",
+					"name" : "Búsquedas de Informes COE TPC",
+					"nodes" : [
+						{
+							"id" : "121",
+							"name" : "Informes COE TPC creados en 2019",
+							"search" : {
+							"language" : "fts-alfresco",
+							"query" : "+TYPE:'rdic:informe' and  cm:created:[2019-01-01 TO 2019-12-31] AND PATH:'/app:company_home/st:sites/cm:minjus-dgjlr/cm:documentLibrary//*'"
+							}
+						},
+						{
+							"id" : "122",
+							"name" : "Informes COE TPC creados en 2020",
+							"search" : {
+							"language" : "fts-alfresco",
+							"query" : "+TYPE:'rdic:informe' and  cm:created:[2020-01-01 TO 2020-12-31] AND PATH:'/app:company_home/st:sites/cm:minjus-dgjlr/cm:documentLibrary//*'"
+							}
+						}
+
+					]
+				} 
+	]
+}
