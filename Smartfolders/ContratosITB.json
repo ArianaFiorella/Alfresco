@@ -1,0 +1,213 @@
+{
+	"name" : "CONTRATOS",
+	"nodes" : [
+				{
+					"name" : "ACCEDE",
+					"nodes" : [
+								 
+								{
+									"id" : "11",
+									"name" : "2017",
+									"description" : "Proyectos",
+									"search" : {
+										"language" : "fts-alfresco",
+										"query" : "+TYPE:'cm:folder' AND cm:name:'CONTRATO' AND cm:description:'CONTRATO' AND cm:title:'ACCEDE' AND PATH:'/app:company_home/st:sites/cm:itbussiness/cm:documentLibrary/cm:PROYECTOS/cm:CATÁLOGO_x0020_DE_x0020_PROYECTOS/cm:_x0032_017//*'"
+										
+									}
+								}
+					]
+
+				}
+				,
+				{
+					"name" : "BN",
+					"nodes" : [
+								 
+								{
+									"id" : "21",
+									"name" : "2018",
+									"description" : "Proyectos",
+									"search" : {
+										"language" : "fts-alfresco",
+										"query" : "+TYPE:'cm:folder' AND cm:name:'CONTRATO' AND cm:description:'CONTRATO' AND cm:title:'BN' AND PATH:'/app:company_home/st:sites/cm:itbussiness/cm:documentLibrary/cm:PROYECTOS/cm:CATÁLOGO_x0020_DE_x0020_PROYECTOS/cm:_x0032_018//*'"
+										
+									}
+								}
+					]
+
+				}
+				,
+				{
+					"name" : "BNP",
+					"nodes" : [
+								 
+								{
+									"id" : "31",
+									"name" : "2018",
+									"description" : "Proyectos",
+									"search" : {
+										"language" : "fts-alfresco",
+										"query" : "+TYPE:'cm:folder' AND cm:name:'CONTRATO' AND cm:description:'CONTRATO' AND cm:title:'BNP' AND PATH:'/app:company_home/st:sites/cm:itbussiness/cm:documentLibrary/cm:PROYECTOS/cm:CATÁLOGO_x0020_DE_x0020_PROYECTOS/cm:_x0032_018//*'"
+										
+									}
+								}
+					]
+
+				}
+				,
+				{
+					"name" : "GRL",
+					"nodes" : [
+								 
+								{
+									"id" : "41",
+									"name" : "2015",
+									"description" : "Proyectos",
+									"search" : {
+										"language" : "fts-alfresco",
+										"query" : "+TYPE:'cm:folder' AND cm:name:'CONTRATO' AND cm:description:'CONTRATO' AND cm:title:'GRL' AND PATH:'/app:company_home/st:sites/cm:itbussiness/cm:documentLibrary/cm:PROYECTOS/cm:CATÁLOGO_x0020_DE_x0020_PROYECTOS/cm:_x0032_015//*'"
+										
+									}
+								}
+					]
+
+				}
+				,
+				{
+					"name" : "JNE",
+					"nodes" : [
+								 
+								{
+									"id" : "51",
+									"name" : "2018",
+									"description" : "Proyectos",
+									"search" : {
+										"language" : "fts-alfresco",
+										"query" : "+TYPE:'cm:folder' AND cm:name:'CONTRATO' AND cm:description:'CONTRATO' AND cm:title:'JNE' AND PATH:'/app:company_home/st:sites/cm:itbussiness/cm:documentLibrary/cm:PROYECTOS/cm:CATÁLOGO_x0020_DE_x0020_PROYECTOS/cm:_x0032_018//*'"
+										
+									}
+								}
+					]
+
+				}
+				,
+				{
+					"name" : "MINAGRI",
+					"nodes" : [
+								 
+								{
+									"id" : "61",
+									"name" : "2018",
+									"description" : "Proyectos",
+									"search" : {
+										"language" : "fts-alfresco",
+										"query" : "+TYPE:'cm:folder' AND cm:name:'CONTRATO' AND cm:description:'CONTRATO' AND cm:title:'MINAGRI' AND PATH:'/app:company_home/st:sites/cm:itbussiness/cm:documentLibrary/cm:PROYECTOS/cm:CATÁLOGO_x0020_DE_x0020_PROYECTOS/cm:_x0032_018//*'"
+										
+									}
+								}
+					]
+
+				}
+				,
+				{
+					"name" : "MINJUSDH",
+					"nodes" : [
+								 
+								{
+									"id" : "71",
+									"name" : "2018",
+									"description" : "Proyectos",
+									"search" : {
+										"language" : "fts-alfresco",
+										"query" : "+TYPE:'cm:folder' AND cm:name:'CONTRATO' AND cm:description:'CONTRATO' AND cm:title:'MINJUS' AND PATH:'/app:company_home/st:sites/cm:itbussiness/cm:documentLibrary/cm:PROYECTOS/cm:CATÁLOGO_x0020_DE_x0020_PROYECTOS/cm:_x0032_018//*'"
+										
+									}
+								}
+					]
+
+				}
+				,
+				{
+					"name" : "MTC",
+					"nodes" : [
+								 
+								{
+									"id" : "81",
+									"name" : "2020",
+									"description" : "Proyectos",
+									"search" : {
+										"language" : "fts-alfresco",
+										"query" : "+TYPE:'cm:folder' AND cm:name:'CONTRATO' AND cm:description:'CONTRATO' AND cm:title:'MTC' AND PATH:'/app:company_home/st:sites/cm:itbussiness/cm:documentLibrary/cm:PROYECTOS/cm:CATÁLOGO_x0020_DE_x0020_PROYECTOS/cm:_x0032_020//*'"
+										
+									}
+								}
+					]
+
+				}
+				,
+				{
+					"name" : "MTPE",
+					"nodes" : [
+								 
+								{
+									"id" : "91",
+									"name" : "2019",
+									"description" : "Proyectos",
+									"search" : {
+										"language" : "fts-alfresco",
+										"query" : "+TYPE:'cm:folder' AND cm:name:'CONTRATO' AND cm:description:'CONTRATO' AND cm:title:'MTPE' AND PATH:'/app:company_home/st:sites/cm:itbussiness/cm:documentLibrary/cm:PROYECTOS/cm:CATÁLOGO_x0020_DE_x0020_PROYECTOS/cm:_x0032_019//*'"
+										
+									}
+								},
+								{
+									"id" : "92",
+									"name" : "2020",
+									"description" : "Proyectos",
+									"search" : {
+										"language" : "fts-alfresco",
+										"query" : "+TYPE:'cm:folder' AND cm:name:'CONTRATO' AND cm:description:'CONTRATO' AND cm:title:'MTPE' AND PATH:'/app:company_home/st:sites/cm:itbussiness/cm:documentLibrary/cm:PROYECTOS/cm:CATÁLOGO_x0020_DE_x0020_PROYECTOS/cm:_x0032_020//*'"
+										
+									}
+								}
+					]
+
+				}
+				,
+				{
+					"name" : "SENAMHI",
+					"nodes" : [
+								 
+								{
+									"id" : "101",
+									"name" : "2020",
+									"description" : "Proyectos",
+									"search" : {
+										"language" : "fts-alfresco",
+										"query" : "+TYPE:'cm:folder' AND cm:name:'CONTRATO' AND cm:description:'CONTRATO' AND cm:title:'SENAMHI' AND PATH:'/app:company_home/st:sites/cm:itbussiness/cm:documentLibrary/cm:PROYECTOS/cm:CATÁLOGO_x0020_DE_x0020_PROYECTOS/cm:_x0032_020//*'"
+										
+									}
+								}
+					]
+
+				}
+				,
+				{
+					"name" : "SIS",
+					"nodes" : [
+								 
+								{
+									"id" : "111",
+									"name" : "2015",
+									"description" : "Proyectos",
+									"search" : {
+										"language" : "fts-alfresco",
+										"query" : "+TYPE:'cm:folder' AND cm:name:'CONTRATO' AND cm:description:'CONTRATO' AND cm:title:'SIS' AND PATH:'/app:company_home/st:sites/cm:itbussiness/cm:documentLibrary/cm:PROYECTOS/cm:CATÁLOGO_x0020_DE_x0020_PROYECTOS/cm:_x0032_015//*'"
+										
+									}
+								}
+					]
+
+				}
+								
+			]
+}
